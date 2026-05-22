@@ -1,6 +1,10 @@
-This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
+# quynh
 
-2024123120:00 JST作成
-GitHub Copilot Workspaceのワークスペース タスクをシェアするお試しリポジトリです。
+[English](README.en.md)
+
+このリポジトリは、GitHub Copilot Workspace のワークスペースタスクを共有するための、お試し用リポジトリです。
+
+- 作成日時: 2024-12-31 20:00 JST
+- 現在は空のリポジトリです。このリポジトリで実行するタスクは、新しい内容を作成する作業として扱ってください。
 
 ご自由に作成してみてください。
